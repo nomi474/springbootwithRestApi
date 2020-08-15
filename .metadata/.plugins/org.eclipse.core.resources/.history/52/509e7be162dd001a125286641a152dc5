@@ -1,0 +1,5 @@
+package com.teresco.demo.model;
+
+public class Alien {
+
+}

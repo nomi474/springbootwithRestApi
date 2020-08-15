@@ -1,0 +1,9 @@
+package com.teresco.demo.controller;
+
+public class AlienController {
+	
+	public String home() {
+		return "home.jsp";
+	}
+
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\Nauman\Documents\SpringTuts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2472143983.index
+\mywebapp\src\main\java
+C:\Users\Nauman\Documents\SpringTuts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1529537237.index
+\mywebapp\src\main\java
+C:\Users\Nauman\Documents\SpringTuts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3715743806.index
+\bootjpa\src\main\java

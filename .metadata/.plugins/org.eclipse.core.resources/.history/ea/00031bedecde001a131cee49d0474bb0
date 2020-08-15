@@ -1,0 +1,7 @@
+package com.teresco.demo.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface AlienRepo extends JpaRepository<T, ID> {
+
+}
